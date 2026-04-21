@@ -327,4 +327,5 @@
 ## laptop coding gif:
  <img align="center" src="https://github.com/demartini/demartini/blob/master/code.gif" />
 <br>
- 
+text 
+Я научился редактировать код на GitHub!
